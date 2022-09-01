@@ -33,4 +33,4 @@ THEN the saved events persist
 # My Github
 https://github.com/ianad389
 
-link to project: 
+link to project: https://ianad389.github.io/Workday-Scheduler-/
