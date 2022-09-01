@@ -22,7 +22,7 @@ for (let i = 8; i < 18; i++) {
     } else {
         hourClass = 'future-event'
     }
-    // Row Time
+    // Row Time and past, current and future events
     if (i < 13) {
         container.append(`
         <div id="hour-${i}" class="row time-block"><div class="col-md-1 hour">
